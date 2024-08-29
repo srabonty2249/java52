@@ -1,0 +1,1 @@
+<img id="c_img" src="images/pic.png">
